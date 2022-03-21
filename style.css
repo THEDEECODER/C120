@@ -1,0 +1,46 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .heading_div{
+    background: white; 
+    border-radius: 20px; 
+    float: none;
+    padding: 10px;
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2{
+    font-size: 18px ;
+  }
+  .objecttag{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .objecttag span{
+    white-space: pre-line;
+  }
+  .accuracytag{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .accuracytag span{
+    white-space: pre-line;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+  }
+  canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 155px;
+    }
